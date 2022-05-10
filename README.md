@@ -17,7 +17,7 @@ The vehicle weight and spoiler angles are variables that are non random affectin
 
 ![5total_summary.png](./Resources/5total_summary.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds. The current manufacturing data specification for all manufacturing lots in total show that the specifications have are being met, however when broken down by lot we can see lot3 exceeds the max psi specs.
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds. The current manufacturing data specification for all manufacturing lots in total show that the specifications are being met, however when broken down by lot we can see lot exceeds the max psi specs.
 
 ![6lot_summary.png](./Resources/6lot_summary.png)
 
